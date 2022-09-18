@@ -16,6 +16,12 @@ void func()
     
 }
 
+void func2()
+{
+    
+}
+
+
 
 int main()
 {
