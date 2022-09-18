@@ -5,6 +5,14 @@
 
 #include <iostream>
 
+
+void test()
+{
+
+}
+
+
+
 int main()
 {
     std::cout << "It's Dev!" << std::endl;
