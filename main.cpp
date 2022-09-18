@@ -11,6 +11,10 @@ void test()
 
 }
 
+void func()
+{
+    
+}
 
 
 int main()
