@@ -8,6 +8,7 @@
 int main()
 {
     std::cout << "Hello, World!" << std::endl;
+    std::cout << "It's Master!!" << std::endl;
 
     return 0;
 }
